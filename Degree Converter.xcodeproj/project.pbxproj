@@ -55,7 +55,7 @@
 			children = (
 				C01916452A8F73ED00DF0C9D /* Degree_ConverterApp.swift */,
 				C01916472A8F73ED00DF0C9D /* ContentView.swift */,
-				C05C714E2A92822D003F1AB2 /* Scrennshot */,
+				C05C714E2A92822D003F1AB2 /* Screenshot */,
 				C01916492A8F73EE00DF0C9D /* Assets.xcassets */,
 				C019164B2A8F73EE00DF0C9D /* Preview Content */,
 			);
@@ -70,12 +70,12 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		C05C714E2A92822D003F1AB2 /* Scrennshot */ = {
+		C05C714E2A92822D003F1AB2 /* Screenshot */ = {
 			isa = PBXGroup;
 			children = (
 				C05C714F2A92824E003F1AB2 /* Screenshot.png */,
 			);
-			path = Scrennshot;
+			path = Screenshot;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
