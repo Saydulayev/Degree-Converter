@@ -12,7 +12,7 @@ Temperature Converter is a simple SwiftUI application that allows you to convert
 
 ## Screenshot
 
-![Screenshot 1](screenshots/screenshot.png)
+![Screenshot 1](Screenshot/Screenshot.png)
 
 
 ## How to Use
