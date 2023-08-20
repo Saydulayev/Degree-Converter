@@ -1,3 +1,11 @@
+<table border=0>
+    <tr>
+        <td>
+            <image src=https://github.com/Saydulayev/Degree-Converter/blob/main/Degree%20Converter/Screenshot/Screenshot.png width=230 align=center>
+        </td>
+    </tr>
+</table>
+
 # Temperature Converter
 
 Temperature Converter is a simple SwiftUI application that allows you to convert temperatures between Celsius, Fahrenheit, and Kelvin units. This application provides an intuitive user interface for entering a temperature value, selecting input and output units, and instantly seeing the converted temperature.
@@ -10,9 +18,6 @@ Temperature Converter is a simple SwiftUI application that allows you to convert
 - Input validation to handle invalid or empty inputs.
 - Convenient "Done" button in the keyboard toolbar for dismissing the keyboard.
 
-## Screenshot
-
-![Screenshot 1](Screenshot/Screenshot.png)
 
 
 ## How to Use
