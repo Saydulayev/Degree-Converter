@@ -10,10 +10,10 @@ Temperature Converter is a simple SwiftUI application that allows you to convert
 - Input validation to handle invalid or empty inputs.
 - Convenient "Done" button in the keyboard toolbar for dismissing the keyboard.
 
-## Screenshots
+## Screenshot
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 1](screenshots/screenshot.png)
+
 
 ## How to Use
 
