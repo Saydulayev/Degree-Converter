@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  Degree Converter
 //
-//  Created by Dokx Dig on 18.08.23.
+//  Created by Akhmed on 18.08.23.
 //
 
 import SwiftUI
