@@ -75,6 +75,10 @@ struct ContentView: View {
                 Text("Temperature Converter")
                     .font(.title)
                     .padding()
+                    .frame(maxWidth: .infinity)
+                    .background(.regularMaterial)
+                    .clipShape(RoundedRectangle(cornerRadius: 10))
+                    
                 Picker("Input Unit", selection: $inputUnitIndex) {
                     ForEach(0..<TemperatureUnit.allCases.count, id: \.self) {
                         Text(TemperatureUnit.allCases[$0].rawValue)
